@@ -1,0 +1,6 @@
+{
+  "name": "Guardián de Paz UCDM",
+  "description": "Aplicación de discernimiento espiritual y perdón no-dual basada en Un Curso de Milagros para transformar la tentación del ego en paz interior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
